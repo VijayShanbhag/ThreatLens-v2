@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet)
+
+
 ## ThreatLens-v2
 
 A Python project for analyzing authentication and web server logs through a graphical interface to detect common security threats.
