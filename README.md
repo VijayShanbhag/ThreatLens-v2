@@ -40,6 +40,36 @@ I also wanted to make the project feel closer to the type of tools used in SOC e
 • Generates HTML, JSON, and CSV reports 
 
 
+## Screenshots
+
+### Dashboard
+
+Application before running a scan.
+
+![Dashboard](screenshots/dashboard.png)
+
+
+### Detection Results
+
+Results after scanning a sample authentication log.
+
+![Detection Results](screenshots/results.png)
+
+
+### HTML Report
+
+Threat summary, IOC extraction, MITRE mapping, and detected threats.
+
+![HTML Report](screenshots/html-report.png)
+
+
+### Generated Reports
+
+ThreatLens can export reports in HTML, JSON, and CSV formats.
+
+![Generated Reports](screenshots/reports-generated.png)
+
+
 ## How it works
 Select Log File
         ↓
